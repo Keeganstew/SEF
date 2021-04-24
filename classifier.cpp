@@ -6,6 +6,11 @@ class Classifier {
 private:
 	int data;
 
+public:
+	void train() {
+		printf("Train");
+	}
+
 
 };
 
